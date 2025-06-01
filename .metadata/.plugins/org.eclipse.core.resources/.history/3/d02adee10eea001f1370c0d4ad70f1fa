@@ -1,0 +1,20 @@
+package com.java.rahul;
+
+public class SortingArray {
+public static void main(String[] args) {
+	int[] arr= {9,26,13,1,10,30,45,11,39,15};
+	int i,j,temp;
+	for(i=0;i<arr.length-1;i++) {
+		for(j=0;j<arr.length;j++) {
+			if(arr[j]<arr[i]) {
+				temp=arr[i];
+				arr[i]=arr[j];
+				arr[j]=temp;
+			}
+		}
+	}
+	for(int val:arr) {
+		System.out.print(val+" ");
+	}
+}
+}
