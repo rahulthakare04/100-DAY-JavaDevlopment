@@ -1,8 +1,0 @@
-INDEX VERSION 1.4+D:\2025-jan full stack java\eclipse-jee-2024-12-R-win32-x86_64\Java Project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-4069895447.index
-3660416643.index
-1139054193.index
-1098643521.index
-782926672.index
-1141616311.index
-3719574775.index
